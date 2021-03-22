@@ -1,7 +1,3 @@
-<html>
-  <div style="background-color: tomato">
-    <br>
-    <h1>Ajinkya Salvi</h1>
-    <br>
-  </div>
-</html>
+![alt text](https://github.com/AjinkyaSalvi/AjinkyaSalvi/blob/main/github-banner.png?raw=true)
+
+Ajinkya Salvi
