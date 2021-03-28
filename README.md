@@ -6,4 +6,4 @@
 ### Creative and solution-driven Software & Web Developer, creating and developing innovative and user-centric websites and apps.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaSalvi&theme=default) <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default&langs_count=10)
