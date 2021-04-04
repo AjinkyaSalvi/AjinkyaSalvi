@@ -10,4 +10,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default)
 
 ### Connect with me:
-<a href="https://www.linkedin.com/in/ajinkya-salvi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:ajinkyasalvi27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> <a href="http://axs3996.uta.cloud/ajinkya_salvi/home.php"><img alt="My Website" src="https://img.shields.io/badge/Website-Ajinkya%20Salvi-2d2d2d"/></a>
+<a href="https://www.linkedin.com/in/ajinkya-salvi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:ajinkyasalvi27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
