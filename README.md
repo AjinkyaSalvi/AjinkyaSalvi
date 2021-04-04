@@ -7,7 +7,7 @@ I am a student at the University of Texas at Arlington, currently pursuing a Mas
 <br>
 I am open to work seeking full-time job opportunities. Please take a look at my website, and thank you for visiting!
 </div>
----
+## 
 
 ## Creative and solution-driven Software & Web Developer, creating and developing innovative and user-centric websites and apps.
 
