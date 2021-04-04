@@ -7,7 +7,7 @@
 I am a student at the University of Texas at Arlington, currently pursuing a Master of Science degree in Computer Science. I am expecting my graduation in May 2021. I have professional experience as a Software Developer. Throughout my career, I have learned technical skills and developed many projects. I have received many certifications, and I have also participated in many co-curricular and extra-curricular activities.
 <br>
 I am open to work seeking full-time job opportunities. Please take a look at my website, and thank you for visiting!
-<hr style="border:2px solid blue"> </hr>
+<hr style="border:1px"> </hr>
 
 ## GitHub statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaSalvi&layout=compact&langs_count=10)](https://github.com/AjinkyaSalvi?tab=repositories) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default)
