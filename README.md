@@ -5,7 +5,6 @@
 ## Creative and solution-driven Software & Web Developer, creating and developing innovative and user-centric websites and apps.
 
 <br>
-
 I am a student at the University of Texas at Arlington, currently pursuing a Master of Science degree in Computer Science. I am expecting my graduation in May 2021. I have professional experience as a Software Developer. Throughout my career, I have learned technical skills and developed many projects. I have received many certifications, and I have also participated in many co-curricular and extra-curricular activities.
 <br>
 I am open to work seeking full-time job opportunities. Please take a look at my website, and thank you for visiting!
