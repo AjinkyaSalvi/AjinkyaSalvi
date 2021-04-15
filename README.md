@@ -11,7 +11,7 @@ I am a student at the University of Texas at Arlington, currently pursuing a Mas
 I am open to work seeking full-time job opportunities. Thank you for visiting!
 # 
 ## GitHub statistics:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaSalvi&layout=compact&langs_count=10)](https://github.com/AjinkyaSalvi?tab=repositories) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjinkyaSalvi&layout=compact&langs_count=8)](https://github.com/AjinkyaSalvi?tab=repositories) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AjinkyaSalvi&show_icons=true&theme=default)
 
 ## Contact me:
 <a href="https://www.linkedin.com/in/ajinkya-salvi/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> <a href="mailto:ajinkyasalvi27@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
